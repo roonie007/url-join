@@ -1,6 +1,6 @@
 # url-join
 
-A simple port of NodeJS module [url-join](https://github.com/jfromaniello/url-join) to Deno with typescript
+A simple port of the NodeJS module [url-join](https://github.com/jfromaniello/url-join) to Deno with typescript
 
 Join all arguments together and normalize the resulting url.
 
