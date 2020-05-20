@@ -7,7 +7,7 @@ Join all arguments together and normalize the resulting url.
 ## Usage
 
 ```javascript
-import { urlJoin } from "https://deno.land/x/url-join@v4.0.1/join.ts";
+import { urlJoin } from "https://deno.land/x/url-join@master/join.ts";
 
 const fullUrl = urljoin("http://www.google.com", "a", "/b/cd", "?foo=123");
 
